@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\GEOMETRYHELPER\GEOMETRYHELPER\bin\Debug\net6.0\GEOMETRYHELPER.exe
+C:\Users\user\source\repos\GEOMETRYHELPER\GEOMETRYHELPER\bin\Debug\net6.0\GEOMETRYHELPER.deps.json
+C:\Users\user\source\repos\GEOMETRYHELPER\GEOMETRYHELPER\bin\Debug\net6.0\GEOMETRYHELPER.runtimeconfig.json
+C:\Users\user\source\repos\GEOMETRYHELPER\GEOMETRYHELPER\bin\Debug\net6.0\GEOMETRYHELPER.dll
+C:\Users\user\source\repos\GEOMETRYHELPER\GEOMETRYHELPER\bin\Debug\net6.0\GEOMETRYHELPER.pdb
+C:\Users\user\source\repos\GEOMETRYHELPER\GEOMETRYHELPER\obj\Debug\net6.0\GEOMETRYHELPER.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\GEOMETRYHELPER\GEOMETRYHELPER\obj\Debug\net6.0\GEOMETRYHELPER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\GEOMETRYHELPER\GEOMETRYHELPER\obj\Debug\net6.0\GEOMETRYHELPER.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\GEOMETRYHELPER\GEOMETRYHELPER\obj\Debug\net6.0\GEOMETRYHELPER.AssemblyInfo.cs
+C:\Users\user\source\repos\GEOMETRYHELPER\GEOMETRYHELPER\obj\Debug\net6.0\GEOMETRYHELPER.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GEOMETRYHELPER\GEOMETRYHELPER\obj\Debug\net6.0\GEOMETRYHELPER.dll
+C:\Users\user\source\repos\GEOMETRYHELPER\GEOMETRYHELPER\obj\Debug\net6.0\refint\GEOMETRYHELPER.dll
+C:\Users\user\source\repos\GEOMETRYHELPER\GEOMETRYHELPER\obj\Debug\net6.0\GEOMETRYHELPER.pdb
+C:\Users\user\source\repos\GEOMETRYHELPER\GEOMETRYHELPER\obj\Debug\net6.0\GEOMETRYHELPER.genruntimeconfig.cache
+C:\Users\user\source\repos\GEOMETRYHELPER\GEOMETRYHELPER\obj\Debug\net6.0\ref\GEOMETRYHELPER.dll
